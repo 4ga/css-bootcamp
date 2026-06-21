@@ -1,5 +1,5 @@
 .profile-card {
-  outline: 2px solid #000;
+  border: 2px solid #000;
   border-radius: 3%;
   width: 28.125rem;
   background: #eee8e8;
@@ -8,6 +8,7 @@
   flex-direction: column;
   align-items: center;
   padding: 2rem;
+  margin: 2rem auto;
 }
 
 .profile-card__image {
