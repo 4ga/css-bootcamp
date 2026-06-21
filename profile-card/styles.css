@@ -1,7 +1,12 @@
+* {
+  box-sizing: border-box;
+}
+
 .profile-card {
   border: 2px solid #000;
   border-radius: 3%;
-  width: 28.125rem;
+  width: 100%;
+  max-width: 28.125rem;
   background: #eee8e8;
   display: flex;
   justify-content: center;
