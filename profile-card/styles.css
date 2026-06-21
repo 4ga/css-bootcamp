@@ -10,10 +10,10 @@
   padding: 2rem;
 }
 
-.profile-card_image {
+.profile-card__image {
   border-radius: 10%;
 }
 
-.profile-card_bio {
+.profile-card__bio {
   line-height: 1.5;
 }
