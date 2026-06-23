@@ -23,3 +23,9 @@
 .profile-card__bio {
   line-height: 1.5;
 }
+
+img {
+  max-width: 100%;
+  width: 20rem;
+  display: block;
+}
