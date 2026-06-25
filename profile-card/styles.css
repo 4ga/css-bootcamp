@@ -23,21 +23,18 @@
   width: 20rem;
   height: auto;
   display: block;
-  margin: 0;
 }
 
 .profile-card__name {
-  margin: 0;
 }
 
 .profile-card__role {
-  margin: 0;
-}
-
-.profile-card__bio {
-  line-height: 1.5;
 }
 
 .profile-card__link {
+}
+
+.profile-card__bio {
   margin: 0;
+  line-height: 1.5;
 }
