@@ -11,7 +11,7 @@
   display: flex;
   justify-content: center;
   flex-direction: column;
-  gap: 0;
+  gap: 1rem;
   align-items: center;
   padding: 2rem;
   margin: 2rem auto;
@@ -25,8 +25,16 @@
   display: block;
 }
 
+.profile-card__name,
+.profile-card__role,
+.profile-card__bio {
+  margin: 0;
+}
+
 .profile-card__name {
   font-size: 2rem;
+  font-weight: 700;
+  line-height: 1.1;
 }
 
 .profile-card__role {
@@ -34,10 +42,6 @@
   font-weight: 400;
 }
 
-.profile-card__link {
-}
-
 .profile-card__bio {
-  margin: 0;
   line-height: 1.5;
 }
