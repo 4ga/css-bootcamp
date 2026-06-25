@@ -70,3 +70,13 @@ main {
   outline: 2px solid #52606d;
   outline-offset: 3px;
 }
+
+@media (max-width: 30rem) {
+  .profile-card {
+    padding: 1.25rem;
+  }
+
+  .profile-card__name {
+    font-size: 1.75rem;
+  }
+}
