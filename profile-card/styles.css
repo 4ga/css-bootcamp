@@ -4,10 +4,11 @@
 
 .profile-card {
   border: 2px solid #000;
+  color: #1f2933;
   border-radius: 3%;
   width: 100%;
   max-width: 28.125rem;
-  background: #eee8e8;
+  background: #f8fafc;
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -40,6 +41,7 @@
 .profile-card__role {
   font-size: 1.2rem;
   font-weight: 400;
+  color: #52606d;
 }
 
 .profile-card__bio {
