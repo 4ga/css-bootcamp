@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+main {
+  padding: 0 1rem;
+}
+
 .profile-card {
   border: 2px solid #d9e2ec;
   color: #1f2933;
